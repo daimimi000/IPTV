@@ -57,7 +57,7 @@ http://live.cooltv.top/tv/btime.php?id=btvcj
 http://live.cooltv.top/tv/btime.php?id=btvsh
 #EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png" group-title="卫视",北京青年
 http://live.cooltv.top/tv/btime.php?id=btvqn 
-#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="卫视",北京科教
+#EXTINF:-1 tvg-id="1874" tvg-name="BTV纪实科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="卫视",北京科教
 http://live.cooltv.top/tv/btime.php?id=btvkj
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视", 东南卫视 
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225585/index.m3u8?fmt=ts2hls
