@@ -175,14 +175,6 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225655/index.m3
 http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226221/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://raw.githubusercontent.com/YueChan/Logo/main/4KUHD.jpg" group-title="数字",纯享超清
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 tvg-id="CBN风尚生活" tvg-name="CBN风尚生活" tvg-logo="https://raw.githubusercontent.com/JKAIR001/iptvlogo/main/CBN-风尚生活.png" group-title="数字",风尚生活
-http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/fssh_4000.m3u8
-#EXTINF:-1 tvg-id="CBN每日影院" tvg-name="CBN每日影院" tvg-logo="https://raw.githubusercontent.com/JKAIR001/iptvlogo/main/CBN-每日影院.png" group-title="数字",每日影院
-http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/mryy_4000.m3u8
-#EXTINF:-1 tvg-id="CBN幸福剧场" tvg-name="CBN幸福剧场" tvg-logo="https://raw.githubusercontent.com/JKAIR001/iptvlogo/main/CBN-幸福剧场.png" group-title="数字",幸福剧场
-http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/xfjc_4000.m3u8
-#EXTINF:-1 tvg-id="CBN幸福生活" tvg-name="CBN幸福娱乐" tvg-logo="https://raw.githubusercontent.com/JKAIR001/iptvlogo/main/CBN-幸福娱乐.png" group-title="数字",幸福娱乐
-http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/xfyl_4000.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="数字", 生活时尚
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="都市剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="数字", 都市剧场
