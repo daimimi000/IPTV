@@ -187,8 +187,8 @@ http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="数字",上海外语
 http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1989" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="数字",上海都市
-http://live.cooltv.top/tv/bestv.php?id=18
+#EXTINF:-1 tvg-id="62" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="数字",哈哈炫动
+http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://epg.112114.xyz/logo/求索动物.png" group-title="数字", 求索动物
 http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 #EXTINF:-1 tvg-id="浙江求索生活" tvg-name="浙江求索生活" tvg-logo="https://epg.112114.xyz/logo/浙江求索生活.png" group-title="数字", 求索生活
