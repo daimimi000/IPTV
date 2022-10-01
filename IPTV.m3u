@@ -139,15 +139,15 @@ http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="数字", 央视台球
 http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="27" tvg-name="女性时尚" tvg-logo="https://github.com/hououinkami/AppleTV/raw/main/ChannelLogo/China/CCTV_NXSS.png" group-title="数字",女性时尚
+#EXTINF:-1 tvg-id="27" tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/hououinkami/AppleTV/raw/main/ChannelLogo/China/CCTV_NXSS.png" group-title="数字",女性时尚
 http://60.168.53.192:8888/udp/238.1.79.55:4576
-#EXTINF:-1 tvg-id="23" tvg-name="风云足球" tvg-logo="https://github.com/hououinkami/AppleTV/raw/main/ChannelLogo/China/CCTV_FYZQ.png" group-title="数字",风云足球
+#EXTINF:-1 tvg-id="23" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/hououinkami/AppleTV/raw/main/ChannelLogo/China/CCTV_FYZQ.png" group-title="数字",风云足球
 http://60.168.53.192:8888/udp/238.1.79.57:4592
-#EXTINF:-1 tvg-id="24" tvg-name="风云剧场" tvg-logo="https://github.com/hououinkami/AppleTV/raw/main/ChannelLogo/China/CCTV_FYJC.png" group-title="数字",风云剧场
+#EXTINF:-1 tvg-id="24" tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/hououinkami/AppleTV/raw/main/ChannelLogo/China/CCTV_FYJC.png" group-title="数字",风云剧场
 http://60.168.53.192:8888/udp/238.1.79.62:4632
-#EXTINF:-1 tvg-id="25" tvg-name="第一剧场" tvg-logo="https://github.com/hououinkami/AppleTV/raw/main/ChannelLogo/China/CCTV_DYJC.png" group-title="数字",第一剧场
+#EXTINF:-1 tvg-id="25" tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/hououinkami/AppleTV/raw/main/ChannelLogo/China/CCTV_DYJC.png" group-title="数字",第一剧场
 http://60.168.53.192:8888/udp/238.1.79.63:4640
-#EXTINF:-1 tvg-id="22" tvg-name="风云音乐" tvg-logo="https://github.com/hououinkami/AppleTV/raw/main/ChannelLogo/China/CCTV_FYYY.png" group-title="数字",风云音乐
+#EXTINF:-1 tvg-id="22" tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/hououinkami/AppleTV/raw/main/ChannelLogo/China/CCTV_FYYY.png" group-title="数字",风云音乐
 http://60.168.53.192:8888/udp/238.1.79.64:4648
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="数字", 动作电影 
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
