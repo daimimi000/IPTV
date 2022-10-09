@@ -171,6 +171,10 @@ http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221
 http://111.177.34.81/hlslive.1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" group-title="数字",纯享超清
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 tvg-id="4K测试" tvg-name="4K测试" group-title="数字",4K测试
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="Y+频道" tvg-name="Y+频道" group-title="数字",Y+频道
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="生活时尚" group-title="数字", 生活时尚
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="都市剧场" group-title="数字", 都市剧场
