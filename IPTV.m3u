@@ -181,8 +181,8 @@ http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="上海外语" group-title="数字",上海外语
 http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" group-title="数字",第一财经
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226564/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 tvg-id="足球频道" tvg-name="足球频道" group-title="数字",足球频道
+http://[2409:8087:6a01:1020::a]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226134/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="62" tvg- name="哈哈炫动" group-title="数字",哈哈炫动
 http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物“ group-title="数字", 求索动物
