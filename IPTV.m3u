@@ -138,9 +138,9 @@ http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000039/m
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" group-title="数字", 金鹰纪实
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225595/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" group-title="数字", 茶友频道
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225781/index.m3u8?fmt=ts2hls
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" group-title="数字", 快乐垂钓
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225780/index.m3u8?fmt=ts2hls
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002286/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="47" tvg-name="梨园频道" group-title="数字", 梨园频道
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="武术世界" group-title="数字", 武术世界
