@@ -181,6 +181,8 @@ http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227087/index.m3u
 http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="62" tvg- name="哈哈炫动" group-title="数字",哈哈炫动
 http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" group-title="数字",金色学堂
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227208/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" group-title="数字",动漫秀场
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227071/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-id="黑莓电影" tvg- name="黑莓电影" group-title="数字",黑莓电影
