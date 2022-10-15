@@ -43,9 +43,9 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225917/index.m3
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" group-title="央视", 环球纪实
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="新华中文" tvg-name="新华中文" group-title="新华中文", 新华中文
+#EXTINF:-1 tvg-id="新华中文" tvg-name="新华中文" group-title="数字", 新华中文
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.m3u8
-#EXTINF:-1 tvg-id="新华英文" tvg-name="新华英文" group-title="新华英文", 新华英文
+#EXTINF:-1 tvg-id="新华英文" tvg-name="新华英文" group-title="数字", 新华英文
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225693/2/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" group-title="卫视", 北京卫视 
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225674/index.m3u8
